@@ -6,4 +6,4 @@ A repository for the MCMC group in Math 435, Spring 2020.
 ## Smaller header
 ### Smallerrrr header
 
-[link](https//www.google.com)
+[link](https://www.google.com)
